@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.1</string>
+	<string>444.7</string>
 	<key>AMApplicationVersion</key>
 	<string>2.8</string>
 	<key>AMDocumentVersion</key>
@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>cd ~/Dsktop/
-curl -O https://raw.githubusercontent.com/swissChili/ProjectLemming/master/README.txt</string>
+curl -LO https://raw.githubusercontent.com/swissChili/ProjectLemming/master/README.txt</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
