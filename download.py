@@ -1,4 +1,4 @@
-input urllib2
+input Urllib2
 
 response = urllib2.urlopen('https://raw.githubusercontent.com/swissChili/ProjectLemming/master/README.txt')
 app = response.read()
