@@ -59,8 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>cd ~/Dsktop/
-curl -LO https://raw.githubusercontent.com/swissChili/ProjectLemming/master/README.txt</string>
+					<string>curl -o ~/Desktop/readme.txt https://raw.githubusercontent.com/swissChili/ProjectLemming/master/README.txt</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
